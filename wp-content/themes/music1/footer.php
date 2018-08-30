@@ -49,6 +49,8 @@ $settings = get_option( "ntl_theme_settings" );
 </div>
 
 <div class="imgloader">&nbsp;</div>
+
+<a target="_blank" class="footer_author" href="//fedirko.pro" title="serviced by FEDIRKO.PRO"></a>
 		
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
