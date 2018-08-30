@@ -2,11 +2,11 @@ div.wrap-MI {
 	border:0; 
 	margin:0;
 	position: absolute; 
-	top: 0px;
-	right: 0px;
+	top: 0;
+	right: 0;
 	padding:0; 
 	width:314px; 
-	190px;
+	height: 190px;
 	z-index: 5;
 }
 
@@ -18,8 +18,6 @@ div.jp-innerwrap, div.jp-interface,div.innertab,  div.playlist-wrap-MI {
 div.bars_holder{
 	width: 312px;
 }
-
-
 
 div.jp-play-time, div.jp-total-time, div.statusMI { 
 	color:#8f8f8f; 
@@ -275,26 +273,26 @@ div.playlist-toggle-MI {
 	padding:0px !important; 
 	width: 30px;
 	height: 18px;
-	background:transparent url("images/pbuttonsalt.png") -30px 0 no-repeat !important; 
+	/*background:transparent url("images/pbuttonsalt.png") -30px 0 no-repeat !important; */
 	cursor: pointer;
 	display: none !important;
 }
 
-.gototrack:hover { 
-	background:transparent url("images/pbuttonsalt.png") -30px -18px no-repeat !important; 
-}
+/*.gototrack:hover { */
+	/*background:transparent url("images/pbuttonsalt.png") -30px -18px no-repeat !important; */
+/*}*/
 
 div.playlist-toggle-MI:hover { 
 		background:transparent url("images/expander.png") bottom left no-repeat; 
 }
 
-div.MI_current{
-	background:transparent url("images/pbuttonsalt.png") -60px 0 no-repeat !important; 
-}
+/*div.MI_current{*/
+	/*background:transparent url("images/pbuttonsalt.png") -60px 0 no-repeat !important; */
+/*}*/
 
-div.MI_current:hover{
-	background:transparent url("images/pbuttonsalt.png") -60px -18px no-repeat !important; 
-}
+/*div.MI_current:hover{*/
+	/*background:transparent url("images/pbuttonsalt.png") -60px -18px no-repeat !important; */
+/*}*/
 
 .artname, .trackname{
 	display: block;
@@ -358,13 +356,13 @@ div.MIsliderVolume {
 	right:30px;
 	height: 20px; 
 	width:48px !important; 
-	background:url(images/volbg2.png) no-repeat top left; 
+	background:url('images/volbg2.png') no-repeat top left;
 	border:0px; font-size:1px; 
 	cursor:default; z-index:150;
 }
 
 div.MIsliderVolume .ui-widget-header, div.vol_mp3j .ui-widget-header { 
-	background:transparent url("http://localhost/b/images/volbg.png") no-repeat top left; 
+	background:transparent url("images/volbg.png") no-repeat top left;
 } 
 
 div.MIsliderVolume .ui-slider-handle, div.vol_mp3j .ui-slider-handle {
@@ -598,36 +596,7 @@ span.load_mp3j {
 	height:2px; 
 }
 
-span.posbar_mp3j { 
-	position:absolute; 
-	width:100%; 
-	height:100%; 
-	border:0px solid #f77; 
-}
-
-span.posbar_mp3j .ui-widget-header { 
-	z-index:-500; 
-}	
-
-span.posbar_mp3j .ui-slider-handle { 
-	top: 2px; 
-	margin-left: -11px !important; 
-	border: 0px solid #888; 
-	height: 21px; 
-	width: 19px !important; 
-	z-index: 500; 
-	background: transparent url('images/inlineHandle1.png') no-repeat 8px 0px;
-	opacity:0.75;
-	filter:alpha(opacity=75);
-	cursor: default; 
-	padding:0px !important; 
-}
-
-span.posbar_mp3j .ui-slider-handle:hover { 
-	background: transparent url('images/inlineHandle1.png') no-repeat 8px -30px;
-}
-	
-span.loadB_mp3j { 
+span.loadB_mp3j {
 	position:absolute;
 	top:20px; 
 	left:0px; 
@@ -717,25 +686,7 @@ span.Prev_mp3j, span.Next_mp3j {
 	padding:2px 0px 3px 12px; 
 } 
 
-span.Prev_mp3j { 
-	background: transparent url('images/transport-shard.png') no-repeat -25px -4px; 
-}
-	
-span.Prev_mp3j:hover { 
-	background: transparent url('images/transport-shard.png') no-repeat -25px -36px; 
-}
-	
-span.Next_mp3j { 
-	background: transparent url('images/transport-shard.png') no-repeat -44px -4px; 
-}
-
-span.Next_mp3j:hover { 
-	background: transparent url('images/transport-shard.png') no-repeat -44px -36px; 
-}
-
-
-
-div.basiclist-player-wrap { 
+div.basiclist-player-wrap {
 	padding: 0px 0px 10px 0px; 
 }
 
@@ -777,15 +728,6 @@ div.Holderg_mp3j {
 	border-bottom: 1px solid #ddd;
 }
 
-
-div.vol_mp3j { 
-	position:absolute; 
-	top:-12px; 
-	right:7px; 
-	width:100px; 
-	height:4px; 
-	background: transparent url('images/t10g.png') repeat left top; 
-}
 
 div.vol_mp3j .ui-widget-header {
 	z-index:50; 

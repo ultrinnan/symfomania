@@ -12,6 +12,11 @@
 
 <?php
 
+    $vk_available = strpos(@get_headers('//vk.com')[0],'200') === false ? false : true;
+    if ($vk_available){
+        dynamic_sidebar( 'vk-primary-widget-area' );
+    }
+
 	if ( ! dynamic_sidebar( 'primary-widget-area' ) ) : ?>
 
 			<li id="archives" class="widget-container">

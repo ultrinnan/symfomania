@@ -982,7 +982,6 @@ function lets_get_musicplayer() {
 						
 				<div id="P-Time-MI_0" class="jp-play-time vfont"></div>
 				<div class="playlist-toggle-MI" id="playlist-toggle_0" onclick="javascript:MI_toggleplaylist(' . $mi  . ', 0);">SHOW PLAYLIST</div>
-				<a class="gototrack" href="' .  get_permalink($nl_mplay)   . '">go</a>
 			</div>
 		</div>
 				

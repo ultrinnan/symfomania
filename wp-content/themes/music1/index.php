@@ -52,11 +52,16 @@ get_header(); ?>
 			
 			<div id="main">			
 				<div class="maincontent">
-					<div class="maincontentinner clear">	
-						<?php if ( is_active_sidebar( 'index-left' ) ) { ?>	
-						<div id="primary" class="widget-area grid4 first" role="complementary" >				
-							<ul class="xoxo">	
-								<?php dynamic_sidebar( 'index-left' ); ?>
+					<div class="maincontentinner clear">
+						<?php if ( is_active_sidebar( 'index-left' ) ) { ?>
+						<div id="primary" class="widget-area grid4 first" role="complementary" >
+							<ul class="xoxo">
+								<?php
+                                $vk_available = strpos(@get_headers('//vk.com')[0],'200') === false ? false : true;
+                                if ($vk_available){
+                                    dynamic_sidebar( 'vk-index-left' );
+                                }
+                                dynamic_sidebar( 'index-left' ); ?>
 							</ul>
 						</div>
 						<?php } else {

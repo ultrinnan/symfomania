@@ -189,6 +189,15 @@ endif;
 function ntl_widgets_init() {
 	// Area 1, located at the top of the sidebar.
 	register_sidebar( array(
+		'name' => __( 'VK Primary Widget Area', 'localize' ),
+		'id' => 'vk-primary-widget-area',
+		'description' => __( 'The primary widget area for VK', 'localize' ),
+		'before_widget' => '<li id="%1$s" class="widget-container %2$s clear">',
+		'after_widget' => '</li>',
+		'before_title' => '<h3 class="widget-title vfont">',
+		'after_title' => '</h3>',
+	) );
+	register_sidebar( array(
 		'name' => __( 'Primary Widget Area', 'localize' ),
 		'id' => 'primary-widget-area',
 		'description' => __( 'The primary widget area', 'localize' ),
@@ -198,6 +207,15 @@ function ntl_widgets_init() {
 		'after_title' => '</h3>',
 	) );
 	
+	register_sidebar( array(
+		'name' => __( 'VK Index page left', 'localize' ),
+		'id' => 'vk-index-left',
+		'description' => __( 'Index page left side for VK', 'localize' ),
+		'before_widget' => '<li id="%1$s" class="widget-container %2$s">',
+		'after_widget' => '</li>',
+		'before_title' => '<h3 class="widget-title vfont">',
+		'after_title' => '</h3>',
+	) );
 	register_sidebar( array(
 		'name' => __( 'Index page left', 'localize' ),
 		'id' => 'index-left',
