@@ -1,0 +1,1636 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: localize\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-06 13:02+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alwyn Kotze <aloecorp@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:45
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: archive.php:20
+#: archive.php:40
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:22
+#: archive.php:42
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:24
+#: archive.php:44
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:26
+#: archive.php:46
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:26
+#: comments.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:27
+#: comments.php:40
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: drivedir.php:71
+msgid "To: "
+msgstr ""
+
+#: drivedir.php:73
+msgid "From: "
+msgstr ""
+
+#: drivedir.php:76
+msgid "Go!"
+msgstr ""
+
+#: drivedir.php:78
+msgid "The driving directions are interactive. Click on any bold text for further explanation of the route."
+msgstr ""
+
+#: footer.php:21
+msgid "http://www.netstudio.co.za/"
+msgstr ""
+
+#: footer.php:23
+#, php-format
+msgid "Proudly Designed by %s."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:59
+msgid "Facebook Navigation"
+msgstr ""
+
+#: functions.php:82
+msgid "<span>Read more</span>"
+msgstr ""
+
+#: functions.php:149
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: functions.php:152
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:159
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:159
+#: functions.php:173
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:173
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:189
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:191
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:199
+msgid "Index page left"
+msgstr ""
+
+#: functions.php:201
+msgid "Index page left side"
+msgstr ""
+
+#: functions.php:209
+#: functions.php:211
+msgid "Index page center"
+msgstr ""
+
+#: functions.php:219
+#: functions.php:221
+msgid "Index page right"
+msgstr ""
+
+#: functions.php:229
+msgid "Facebook page"
+msgstr ""
+
+#: functions.php:231
+msgid "Facebook page left"
+msgstr ""
+
+#: functions.php:277
+#, php-format
+msgid "Posted in %4$s by "
+msgstr ""
+
+#: functions.php:306
+#, php-format
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:308
+#, php-format
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: functions.php:310
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: loop.php:14
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:16
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: search.php:15
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid " %s "
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: single-albums.php:128
+msgid "Lyrics"
+msgstr ""
+
+#: single-albums.php:132
+msgid "Buy this track"
+msgstr ""
+
+#: single-albums.php:135
+msgid "Download this track"
+msgstr ""
+
+#: single-albums.php:180
+#: single-albums.php:182
+#: single-albums.php:184
+msgid "buy from"
+msgstr ""
+
+#: admin/admin-functions.php:31
+msgid "Facebook"
+msgstr ""
+
+#: admin/admin-functions.php:41
+msgid "Slideshow"
+msgstr ""
+
+#: admin/admin-functions.php:50
+msgid "Video"
+msgstr ""
+
+#: admin/admin-functions.php:59
+msgid "Utilities"
+msgstr ""
+
+#: admin/admin-helper.php:14
+#: admin/admin-helper.php:45
+msgid "General"
+msgstr ""
+
+#: admin/admin-helper.php:15
+msgid "Fonts"
+msgstr ""
+
+#: admin/admin-helper.php:16
+msgid "Calendar"
+msgstr ""
+
+#: admin/admin-helper.php:17
+msgid "Audio-maps"
+msgstr ""
+
+#: admin/admin-helper.php:18
+msgid "Messages"
+msgstr ""
+
+#: admin/admin-helper.php:19
+msgid "Social"
+msgstr ""
+
+#: admin/admin-helper.php:25
+#: admin/admin-helper.php:32
+msgid "Manager"
+msgstr ""
+
+#: admin/admin-helper.php:26
+msgid "Settings"
+msgstr ""
+
+#: admin/admin-helper.php:38
+msgid "Feedback"
+msgstr ""
+
+#: admin/admin-helper.php:39
+msgid "Bannerlink"
+msgstr ""
+
+#: admin/admin-helper.php:95
+msgid "Address"
+msgstr ""
+
+#: admin/admin-helper.php:96
+msgid "Post"
+msgstr ""
+
+#: admin/admin-helper.php:97
+msgid "Widget"
+msgstr ""
+
+#: admin/admin-helper.php:156
+msgid "Primary"
+msgstr ""
+
+#: admin/admin-helper.php:157
+msgid "Secondary"
+msgstr ""
+
+#: admin/admin-helper.php:158
+msgid "Preview"
+msgstr ""
+
+#: admin/admin-helper.php:256
+msgid "Click to upload image"
+msgstr ""
+
+#: admin/admin-helper.php:273
+#: admin/admin-helper.php:282
+msgid "Upload image"
+msgstr ""
+
+#: admin/admin-helper.php:274
+#: admin/admin-helper.php:283
+msgid "Reset"
+msgstr ""
+
+#: admin/admin-layouts.php:23
+msgid "Transition Type"
+msgstr ""
+
+#: admin/admin-layouts.php:24
+msgid "Select the transition type of the slideshow"
+msgstr ""
+
+#: admin/admin-layouts.php:34
+msgid "Transition Time"
+msgstr ""
+
+#: admin/admin-layouts.php:35
+msgid "Time Between Slide Transitions in seconds"
+msgstr ""
+
+#: admin/admin-layouts.php:45
+msgid "Slider Type"
+msgstr ""
+
+#: admin/admin-layouts.php:46
+msgid "Click to select your slideshow type"
+msgstr ""
+
+#: admin/admin-layouts.php:65
+msgid "<strong>email sent to admin when a new person signs up for a newsletter</strong> "
+msgstr ""
+
+#: admin/admin-layouts.php:74
+#: admin/admin-layouts.php:104
+#: admin/admin-layouts.php:134
+#: admin/admin-layouts.php:165
+msgid "Subjectline"
+msgstr ""
+
+#: admin/admin-layouts.php:75
+#: admin/admin-layouts.php:105
+#: admin/admin-layouts.php:135
+#: admin/admin-layouts.php:166
+msgid "Subjectline of the message"
+msgstr ""
+
+#: admin/admin-layouts.php:84
+#: admin/admin-layouts.php:114
+#: admin/admin-layouts.php:144
+#: admin/admin-layouts.php:175
+msgid "Body"
+msgstr ""
+
+#: admin/admin-layouts.php:85
+#: admin/admin-layouts.php:115
+#: admin/admin-layouts.php:145
+#: admin/admin-layouts.php:176
+msgid "Body of the message"
+msgstr ""
+
+#: admin/admin-layouts.php:95
+msgid "<strong>email sent to the person who signed up for the newsletter</strong> "
+msgstr ""
+
+#: admin/admin-layouts.php:125
+msgid "<strong>email sent to the person who signed up  for a reminder</strong> "
+msgstr ""
+
+#: admin/admin-layouts.php:156
+msgid "<strong>Reminder message sent out</strong>"
+msgstr ""
+
+#: admin/admin-layouts.php:191
+msgid "Measurement settings"
+msgstr ""
+
+#: admin/admin-layouts.php:192
+msgid "Click to select either metric or imperial measurements"
+msgstr ""
+
+#: admin/admin-layouts.php:201
+msgid "Driving directions"
+msgstr ""
+
+#: admin/admin-layouts.php:202
+msgid "Select the page you created for your driving directions"
+msgstr ""
+
+#: admin/admin-layouts.php:211
+msgid "Show player"
+msgstr ""
+
+#: admin/admin-layouts.php:212
+msgid "Select to enable or disable music player"
+msgstr ""
+
+#: admin/admin-layouts.php:221
+msgid "Default Album"
+msgstr ""
+
+#: admin/admin-layouts.php:222
+msgid "Select the default album for the player"
+msgstr ""
+
+#: admin/admin-layouts.php:231
+msgid "Autoplay"
+msgstr ""
+
+#: admin/admin-layouts.php:232
+msgid "Select to enable or disable autoplay"
+msgstr ""
+
+#: admin/admin-layouts.php:248
+msgid "Facebook APP ID"
+msgstr ""
+
+#: admin/admin-layouts.php:249
+msgid "add your facebook APP ID key here"
+msgstr ""
+
+#: admin/admin-layouts.php:258
+msgid "Facebook Secretkey"
+msgstr ""
+
+#: admin/admin-layouts.php:259
+msgid "Add your facebook secret key here"
+msgstr ""
+
+#: admin/admin-layouts.php:268
+msgid "Facebook previewmode"
+msgstr ""
+
+#: admin/admin-layouts.php:269
+msgid "Select to activate or deactivate previewmode"
+msgstr ""
+
+#: admin/admin-layouts.php:278
+msgid "Facebook secure page"
+msgstr ""
+
+#: admin/admin-layouts.php:279
+msgid "Select your facebook secure page"
+msgstr ""
+
+#: admin/admin-layouts.php:288
+msgid "SSL address"
+msgstr ""
+
+#: admin/admin-layouts.php:289
+msgid "Add your ssl address here"
+msgstr ""
+
+#: admin/admin-layouts.php:298
+msgid "Enable Musicplayer"
+msgstr ""
+
+#: admin/admin-layouts.php:299
+msgid "Should the music player be enabled?"
+msgstr ""
+
+#: admin/admin-layouts.php:308
+msgid "Featured album"
+msgstr ""
+
+#: admin/admin-layouts.php:309
+msgid "Album to load in the music player"
+msgstr ""
+
+#: admin/admin-layouts.php:325
+msgid "Countdown timer"
+msgstr ""
+
+#: admin/admin-layouts.php:326
+msgid "Click to enable or disable the countdown timer"
+msgstr ""
+
+#: admin/admin-layouts.php:335
+msgid "Calendar page"
+msgstr ""
+
+#: admin/admin-layouts.php:336
+msgid "Select your calendar page from the dropdown"
+msgstr ""
+
+#: admin/admin-layouts.php:345
+msgid "Next Show"
+msgstr ""
+
+#: admin/admin-layouts.php:346
+msgid "Add your custom label for \"next show\" in the countdown timer"
+msgstr ""
+
+#: admin/admin-layouts.php:355
+msgid "View Calendar"
+msgstr ""
+
+#: admin/admin-layouts.php:356
+msgid "Add your custom label for \"view calendar\" in the countdown timer"
+msgstr ""
+
+#: admin/admin-layouts.php:373
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/admin-layouts.php:374
+msgid "Click the button to upload your logo"
+msgstr ""
+
+#: admin/admin-layouts.php:384
+msgid "Tagline"
+msgstr ""
+
+#: admin/admin-layouts.php:385
+msgid "Frontpage tagline or album description"
+msgstr ""
+
+#: admin/admin-layouts.php:395
+msgid "Theme color"
+msgstr ""
+
+#: admin/admin-layouts.php:396
+msgid "Click to select your theme color"
+msgstr ""
+
+#: admin/admin-layouts.php:405
+msgid "Background Color"
+msgstr ""
+
+#: admin/admin-layouts.php:406
+msgid "Click to select your background color"
+msgstr ""
+
+#: admin/admin-layouts.php:415
+msgid "Twitter username"
+msgstr ""
+
+#: admin/admin-layouts.php:416
+msgid "Add your twitter name here (leave blank to deactivate the custom twitter widgets.)"
+msgstr ""
+
+#: admin/admin-layouts.php:425
+msgid "Album Carousel"
+msgstr ""
+
+#: admin/admin-layouts.php:426
+msgid "Click to enable or disable the album carousel at the bottom of the frontpage"
+msgstr ""
+
+#: admin/admin-layouts.php:448
+#: admin/admin-layouts.php:531
+#: admin/admin-layouts.php:642
+msgid "Slide Heading"
+msgstr ""
+
+#: admin/admin-layouts.php:449
+#: admin/admin-layouts.php:532
+#: admin/admin-layouts.php:643
+msgid "Heading of your slideshow item (can be left blank)"
+msgstr ""
+
+#: admin/admin-layouts.php:458
+#: admin/admin-layouts.php:541
+#: admin/admin-layouts.php:653
+#: admin/admin-layouts.php:729
+msgid "Slide content"
+msgstr ""
+
+#: admin/admin-layouts.php:459
+#: admin/admin-layouts.php:542
+#: admin/admin-layouts.php:654
+#: admin/admin-layouts.php:730
+msgid "Main content/description of the slideshow item"
+msgstr ""
+
+#: admin/admin-layouts.php:468
+msgid "Slide Label"
+msgstr ""
+
+#: admin/admin-layouts.php:469
+msgid "Label of the slide link eg. \"read more\""
+msgstr ""
+
+#: admin/admin-layouts.php:478
+#: admin/admin-layouts.php:551
+#: admin/admin-layouts.php:664
+msgid "Custom link"
+msgstr ""
+
+#: admin/admin-layouts.php:479
+#: admin/admin-layouts.php:552
+#: admin/admin-layouts.php:665
+msgid "Use this input to add a custom link. If this field is filled, the links below will be ignored."
+msgstr ""
+
+#: admin/admin-layouts.php:488
+#: admin/admin-layouts.php:561
+#: admin/admin-layouts.php:675
+#: admin/admin-layouts.php:923
+msgid "Content link"
+msgstr ""
+
+#: admin/admin-layouts.php:489
+#: admin/admin-layouts.php:562
+#: admin/admin-layouts.php:676
+msgid "Use this input to add a link to any page, post or category."
+msgstr ""
+
+#: admin/admin-layouts.php:498
+#: admin/admin-layouts.php:686
+msgid "Slide Image"
+msgstr ""
+
+#: admin/admin-layouts.php:499
+msgid "<em class=\"redtag\">Remember to set the image as a featured image</em><br/>Image size: 978 pixels wide and 360 pixels high"
+msgstr ""
+
+#: admin/admin-layouts.php:508
+#: admin/admin-layouts.php:571
+#: admin/admin-layouts.php:621
+#: admin/admin-layouts.php:697
+#: admin/admin-layouts.php:751
+#: admin/admin-layouts.php:785
+msgid "Save slide"
+msgstr ""
+
+#: admin/admin-layouts.php:509
+#: admin/admin-layouts.php:572
+#: admin/admin-layouts.php:622
+#: admin/admin-layouts.php:698
+#: admin/admin-layouts.php:752
+#: admin/admin-layouts.php:786
+msgid "Save information for this slideshow"
+msgstr ""
+
+#: admin/admin-layouts.php:591
+#: admin/admin-layouts.php:809
+msgid "Video number"
+msgstr ""
+
+#: admin/admin-layouts.php:592
+msgid "Video number of the video to add"
+msgstr ""
+
+#: admin/admin-layouts.php:601
+msgid "Video type"
+msgstr ""
+
+#: admin/admin-layouts.php:602
+msgid "Is it a Youtube or Vimeo slideshow"
+msgstr ""
+
+#: admin/admin-layouts.php:611
+msgid "Video Gallery"
+msgstr ""
+
+#: admin/admin-layouts.php:612
+msgid "If your video is already in the video gallery, you can leave the first colums open and just choose the video that you want to add from the selectbox"
+msgstr ""
+
+#: admin/admin-layouts.php:687
+msgid "<em class=\"redtag\">Remember to set the image as a featured image</em><br/>Image size: 465 pixels wide and 265 pixels high"
+msgstr ""
+
+#: admin/admin-layouts.php:718
+msgid "Link to album"
+msgstr ""
+
+#: admin/admin-layouts.php:719
+msgid "Select the album to display"
+msgstr ""
+
+#: admin/admin-layouts.php:740
+msgid "Slide Title"
+msgstr ""
+
+#: admin/admin-layouts.php:741
+msgid "Heading of the slide item"
+msgstr ""
+
+#: admin/admin-layouts.php:774
+msgid "Link to post"
+msgstr ""
+
+#: admin/admin-layouts.php:775
+msgid "Select the item yo link to"
+msgstr ""
+
+#: admin/admin-layouts.php:810
+msgid "The Youtube or Vimeo video number (see help video)"
+msgstr ""
+
+#: admin/admin-layouts.php:819
+msgid "Video Type"
+msgstr ""
+
+#: admin/admin-layouts.php:820
+msgid "Select the type of video"
+msgstr ""
+
+#: admin/admin-layouts.php:829
+msgid "Save video"
+msgstr ""
+
+#: admin/admin-layouts.php:830
+msgid "Save information for this video"
+msgstr ""
+
+#: admin/admin-layouts.php:846
+msgid "Feedback name"
+msgstr ""
+
+#: admin/admin-layouts.php:847
+msgid "Name or company name of the person who gave feedback"
+msgstr ""
+
+#: admin/admin-layouts.php:856
+msgid "Feedback link"
+msgstr ""
+
+#: admin/admin-layouts.php:857
+msgid "If you wish to link the feedback image to a website of the person or company who gave feedback, add the address to link to here"
+msgstr ""
+
+#: admin/admin-layouts.php:866
+msgid "Feedback Content"
+msgstr ""
+
+#: admin/admin-layouts.php:867
+msgid "Content of the feedback"
+msgstr ""
+
+#: admin/admin-layouts.php:876
+#: admin/admin-layouts.php:903
+msgid "Feedback Image"
+msgstr ""
+
+#: admin/admin-layouts.php:877
+msgid "<em class=\"redtag\">Remember to set the image as a featured image</em><br /> Keep the image not larger than 80 px wide and 80 pixels high"
+msgstr ""
+
+#: admin/admin-layouts.php:886
+#: admin/admin-layouts.php:944
+msgid "Save feedback"
+msgstr ""
+
+#: admin/admin-layouts.php:887
+#: admin/admin-layouts.php:945
+msgid "Save information for this feedback item"
+msgstr ""
+
+#: admin/admin-layouts.php:904
+msgid "<em class=\"redtag\">Remember to set the image as a featured image</em><br /> Image size 259 pixels wide x 159 pixels high."
+msgstr ""
+
+#: admin/admin-layouts.php:913
+msgid "Feedback custom link"
+msgstr ""
+
+#: admin/admin-layouts.php:914
+msgid "A custom address to link to. If set, the link settings below will be ignored"
+msgstr ""
+
+#: admin/admin-layouts.php:924
+msgid "Use this input to add a link to any page or post."
+msgstr ""
+
+#: admin/admin-layouts.php:934
+msgid "Bannerlink title"
+msgstr ""
+
+#: admin/admin-layouts.php:935
+msgid "Title for bannerlink"
+msgstr ""
+
+#: admin/facebook-settings.php:64
+msgid "Facebook Settings updated."
+msgstr ""
+
+#: admin/facebook-settings.php:67
+#: admin/slide-settings.php:155
+#: admin/theme-settings.php:133
+msgid "Save"
+msgstr ""
+
+#: admin/slide-settings.php:127
+msgid "Slideshow Settings"
+msgstr ""
+
+#: admin/slide-settings.php:131
+msgid "Settings Updated"
+msgstr ""
+
+#: admin/slide-settings.php:255
+#: admin/slide-settings.php:261
+#: admin/slide-settings.php:269
+msgid "Add slideshow item"
+msgstr ""
+
+#: admin/slide-settings.php:292
+msgid "Slide Name"
+msgstr ""
+
+#: admin/slide-settings.php:293
+msgid "Enter slide name here"
+msgstr ""
+
+#: admin/slide-settings.php:301
+msgid "Slide Type"
+msgstr ""
+
+#: admin/slide-settings.php:316
+msgid "Create Slide Item"
+msgstr ""
+
+#: admin/slide-settings.php:324
+msgid "To create a slideshow item, give it a name above and click Create Slide Item."
+msgstr ""
+
+#: admin/slide-settings.php:341
+msgid "Delete this Slide"
+msgstr ""
+
+#: admin/theme-settings.php:130
+msgid "Theme Settings updated."
+msgstr ""
+
+#: admin/utility-settings.php:100
+msgid "Utility Settings"
+msgstr ""
+
+#: admin/utility-settings.php:104
+msgid "Utility Updated"
+msgstr ""
+
+#: admin/utility-settings.php:196
+#: admin/utility-settings.php:202
+#: admin/utility-settings.php:210
+msgid "Add feedback item"
+msgstr ""
+
+#: admin/utility-settings.php:233
+msgid "Feedback title"
+msgstr ""
+
+#: admin/utility-settings.php:234
+msgid "Enter feedback title here"
+msgstr ""
+
+#: admin/utility-settings.php:238
+msgid "Create feedback Item"
+msgstr ""
+
+#: admin/utility-settings.php:246
+msgid "To create a feedback item, give it a name above and click Create feedback Item."
+msgstr ""
+
+#: admin/utility-settings.php:263
+msgid "Delete this feedback"
+msgstr ""
+
+#: admin/utility-settings.php:357
+#: admin/utility-settings.php:363
+#: admin/utility-settings.php:371
+msgid "Add bannerlink item"
+msgstr ""
+
+#: admin/utility-settings.php:395
+msgid "Enter bannerlink title here"
+msgstr ""
+
+#: admin/utility-settings.php:399
+msgid "Create bannerlink Item"
+msgstr ""
+
+#: admin/utility-settings.php:407
+msgid "To create a bannerlink item, give it a name above and click Create bannerlink Item."
+msgstr ""
+
+#: admin/utility-settings.php:424
+msgid "Delete this bannerlink"
+msgstr ""
+
+#: admin/video-settings.php:100
+msgid "Video Settings"
+msgstr ""
+
+#: admin/video-settings.php:104
+msgid "Video Updated"
+msgstr ""
+
+#: admin/video-settings.php:204
+#: admin/video-settings.php:210
+#: admin/video-settings.php:218
+msgid "Add video item"
+msgstr ""
+
+#: admin/video-settings.php:241
+msgid "Video Name"
+msgstr ""
+
+#: admin/video-settings.php:242
+msgid "Enter video name here"
+msgstr ""
+
+#: admin/video-settings.php:246
+msgid "Create video Item"
+msgstr ""
+
+#: admin/video-settings.php:254
+msgid "To create a video item, give it a name above and click Create video Item."
+msgstr ""
+
+#: admin/video-settings.php:271
+msgid "Delete this video"
+msgstr ""
+
+#: includes/custom_functions.php:123
+msgid "No Lyrics"
+msgstr ""
+
+#: includes/custom_functions.php:149
+#: options/meta-box-options.php:226
+msgid "Artist Name"
+msgstr ""
+
+#: includes/custom_functions.php:152
+msgid "Artist name if different from The main artist."
+msgstr ""
+
+#: includes/custom_functions.php:156
+msgid "Link to buy"
+msgstr ""
+
+#: includes/custom_functions.php:159
+msgid "Add a link to buy this track."
+msgstr ""
+
+#: includes/custom_functions.php:163
+msgid "Link to download"
+msgstr ""
+
+#: includes/custom_functions.php:166
+msgid "Add a link to the track download."
+msgstr ""
+
+#: includes/custom_functions.php:170
+msgid "Link to lyrics"
+msgstr ""
+
+#: includes/custom_functions.php:173
+msgid "Add a link to the lyrics for this music."
+msgstr ""
+
+#: includes/custom_functions.php:177
+msgid "Alternative link"
+msgstr ""
+
+#: includes/custom_functions.php:180
+msgid "Upload mp3 via ftp and paste the link here. See helpfile for details"
+msgstr ""
+
+#: includes/custom_functions.php:346
+msgid "Search results for"
+msgstr ""
+
+#: includes/custom_functions.php:531
+msgid "Set a reminder for this show"
+msgstr ""
+
+#: includes/custom_functions.php:532
+msgid "Name"
+msgstr ""
+
+#: includes/custom_functions.php:535
+#: options/meta-box-options.php:273
+msgid "Email"
+msgstr ""
+
+#: includes/custom_functions.php:538
+msgid "Timespan"
+msgstr ""
+
+#: includes/custom_functions.php:540
+msgid "Remind me ...."
+msgstr ""
+
+#: includes/custom_functions.php:544
+msgid "day before "
+msgstr ""
+
+#: includes/custom_functions.php:546
+msgid "days before "
+msgstr ""
+
+#: includes/custom_functions.php:556
+msgid "Submit"
+msgstr ""
+
+#: includes/custom_functions.php:683
+msgid "Please fill all the fields"
+msgstr ""
+
+#: includes/custom_functions.php:691
+#: includes/custom_functions.php:743
+msgid "Invalid email supplied"
+msgstr ""
+
+#: includes/custom_functions.php:694
+msgid "No name supplied"
+msgstr ""
+
+#: includes/custom_functions.php:697
+msgid "Please leave the location field open. It is only there to fight spam"
+msgstr ""
+
+#: includes/custom_functions.php:699
+msgid "Thank you for submitting. Your first newsletter will arrive shortly."
+msgstr ""
+
+#: includes/custom_functions.php:736
+msgid "Please enter a name and email address"
+msgstr ""
+
+#: includes/custom_functions.php:745
+msgid "Please select a timespan to be reminded"
+msgstr ""
+
+#: includes/custom_functions.php:747
+msgid "Thank you for submitting, We will send your reminder"
+msgstr ""
+
+#: includes/custom_functions.php:791
+msgid "&laquo;"
+msgstr ""
+
+#: includes/custom_functions.php:792
+msgid "&raquo;"
+msgstr ""
+
+#: includes/custom_functions.php:1051
+msgid "Select album to play"
+msgstr ""
+
+#: includes/widgets.php:19
+msgid "Add Vimeo and Youtube videos."
+msgstr ""
+
+#: includes/widgets.php:20
+msgid "Video Widget"
+msgstr ""
+
+#: includes/widgets.php:54
+msgid "Youtube code:"
+msgstr ""
+
+#: includes/widgets.php:56
+msgid "Vimeo code:"
+msgstr ""
+
+#: includes/widgets.php:74
+msgid "Upcoming events"
+msgstr ""
+
+#: includes/widgets.php:75
+msgid "Upcoming Events"
+msgstr ""
+
+#: includes/widgets.php:113
+#: includes/widgets.php:216
+#: includes/widgets.php:296
+#: includes/widgets.php:387
+#: includes/widgets.php:466
+#: includes/widgets.php:538
+#: includes/widgets.php:1017
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets.php:114
+#: includes/widgets.php:217
+msgid "Number of posts to show:"
+msgstr ""
+
+#: includes/widgets.php:133
+msgid "Latest news."
+msgstr ""
+
+#: includes/widgets.php:134
+msgid "Latest News"
+msgstr ""
+
+#: includes/widgets.php:237
+msgid "Display chosen Galleries."
+msgstr ""
+
+#: includes/widgets.php:238
+msgid "Galleries Widget"
+msgstr ""
+
+#: includes/widgets.php:300
+msgid "Images to show:"
+msgstr ""
+
+#: includes/widgets.php:305
+msgid "Select Gallery:"
+msgstr ""
+
+#: includes/widgets.php:338
+msgid "Display chosen album."
+msgstr ""
+
+#: includes/widgets.php:339
+msgid "Albums Widget"
+msgstr ""
+
+#: includes/widgets.php:366
+msgid "View Album."
+msgstr ""
+
+#: includes/widgets.php:391
+msgid "Select Album:"
+msgstr ""
+
+#: includes/widgets.php:426
+msgid "Display Facebook Likebox."
+msgstr ""
+
+#: includes/widgets.php:427
+msgid "Facebook Widget"
+msgstr ""
+
+#: includes/widgets.php:445
+msgid "Join us on Facebook."
+msgstr ""
+
+#: includes/widgets.php:470
+msgid "Facebook Address:"
+msgstr ""
+
+#: includes/widgets.php:491
+msgid "Newsletter Widget"
+msgstr ""
+
+#: includes/widgets.php:509
+#: options/meta-box-extended-functions.php:469
+msgid "Name:"
+msgstr ""
+
+#: includes/widgets.php:513
+msgid "Email:"
+msgstr ""
+
+#: includes/widgets.php:516
+msgid "Location:"
+msgstr ""
+
+#: includes/widgets.php:539
+msgid "Newsletter message:"
+msgstr ""
+
+#: includes/widgets.php:562
+msgid "banner link to anything."
+msgstr ""
+
+#: includes/widgets.php:607
+#: includes/widgets.php:679
+#: includes/widgets.php:925
+msgid "Title (only for use with facebook widget):"
+msgstr ""
+
+#: includes/widgets.php:609
+msgid "Select Imagelink:"
+msgstr ""
+
+#: includes/widgets.php:681
+msgid "Select Feedback post:"
+msgstr ""
+
+#: includes/widgets.php:808
+msgid "year"
+msgstr ""
+
+#: includes/widgets.php:809
+msgid "years"
+msgstr ""
+
+#: includes/widgets.php:810
+msgid "month"
+msgstr ""
+
+#: includes/widgets.php:811
+msgid "months"
+msgstr ""
+
+#: includes/widgets.php:812
+msgid "week"
+msgstr ""
+
+#: includes/widgets.php:813
+msgid "weeks"
+msgstr ""
+
+#: includes/widgets.php:814
+msgid "day"
+msgstr ""
+
+#: includes/widgets.php:815
+msgid "days"
+msgstr ""
+
+#: includes/widgets.php:816
+msgid "hour"
+msgstr ""
+
+#: includes/widgets.php:817
+msgid "hours"
+msgstr ""
+
+#: includes/widgets.php:818
+msgid "minute"
+msgstr ""
+
+#: includes/widgets.php:819
+msgid "minutes"
+msgstr ""
+
+#: includes/widgets.php:870
+msgid "Display a single tweet."
+msgstr ""
+
+#: includes/widgets.php:871
+msgid "Single Tweet Widget"
+msgstr ""
+
+#: includes/widgets.php:899
+#: includes/widgets.php:983
+msgid "ago"
+msgstr ""
+
+#: includes/widgets.php:900
+#: includes/widgets.php:984
+msgid "retweet"
+msgstr ""
+
+#: includes/widgets.php:901
+#: includes/widgets.php:985
+msgid "reply"
+msgstr ""
+
+#: includes/widgets.php:902
+#: includes/widgets.php:986
+msgid "favorite"
+msgstr ""
+
+#: includes/widgets.php:903
+#: includes/widgets.php:990
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: includes/widgets.php:947
+msgid "Display a multiple tweets."
+msgstr ""
+
+#: includes/widgets.php:948
+msgid "Multiple Tweet Widget"
+msgstr ""
+
+#: includes/widgets.php:1021
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: options/custom-post-types.php:134
+#: options/custom-post-types.php:210
+msgid "Add New "
+msgstr ""
+
+#: options/custom-post-types.php:135
+#: options/custom-post-types.php:208
+msgid "Edit "
+msgstr ""
+
+#: options/custom-post-types.php:136
+#: options/custom-post-types.php:211
+msgid "New "
+msgstr ""
+
+#: options/custom-post-types.php:137
+msgid "View "
+msgstr ""
+
+#: options/custom-post-types.php:138
+#: options/custom-post-types.php:204
+msgid "Search "
+msgstr ""
+
+#: options/custom-post-types.php:139
+#: options/custom-post-types.php:140
+msgid "No "
+msgstr ""
+
+#: options/custom-post-types.php:174
+#, php-format
+msgid " updated. <a href=\"%s\">View "
+msgstr ""
+
+#: options/custom-post-types.php:175
+msgid "Custom field updated."
+msgstr ""
+
+#: options/custom-post-types.php:176
+msgid "Custom field deleted."
+msgstr ""
+
+#: options/custom-post-types.php:177
+msgid " updated."
+msgstr ""
+
+#: options/custom-post-types.php:178
+#, php-format
+msgid " restored to revision from %s"
+msgstr ""
+
+#: options/custom-post-types.php:179
+#, php-format
+msgid " published. <a href=\"%s\">View "
+msgstr ""
+
+#: options/custom-post-types.php:180
+msgid " saved."
+msgstr ""
+
+#: options/custom-post-types.php:181
+#, php-format
+msgid " submitted. <a target=\"_blank\" href=\"%s\">Preview "
+msgstr ""
+
+#: options/custom-post-types.php:182
+#, php-format
+msgid " scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview "
+msgstr ""
+
+#: options/custom-post-types.php:183
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: options/custom-post-types.php:184
+#, php-format
+msgid " draft updated. <a target=\"_blank\" href=\"%s\">Preview "
+msgstr ""
+
+#: options/custom-post-types.php:205
+msgid "All "
+msgstr ""
+
+#: options/custom-post-types.php:206
+#: options/custom-post-types.php:207
+msgid "Parent "
+msgstr ""
+
+#: options/custom-post-types.php:209
+msgid "Update"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:11
+msgid "PREV"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:12
+msgid "NEXT"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:263
+msgid "More Info"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:266
+msgid "Set a reminder "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:273
+msgid "Click for directions "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:283
+msgid "No entries found "
+msgstr ""
+
+#: options/meta-box-extended-functions.php:318
+msgid "DAYS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:319
+msgid "HOURS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:320
+msgid "MINS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:321
+msgid "SECS"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:432
+msgid "no entries found"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:474
+msgid "Event date:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:479
+msgid "Reminder date:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:485
+msgid "Event name"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:493
+msgid "Our email address:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:498
+msgid "Contact email:"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:506
+msgid "View the calendar"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:507
+msgid "Click here"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:512
+msgid "Copyright (C) 2011"
+msgstr ""
+
+#: options/meta-box-extended-functions.php:512
+msgid "All rights reserved"
+msgstr ""
+
+#: options/meta-box-functions.php:108
+#: options/meta-box-functions.php:374
+msgid "Delete this image"
+msgstr ""
+
+#: options/meta-box-functions.php:108
+#: options/meta-box-functions.php:331
+#: options/meta-box-functions.php:374
+msgid "Delete"
+msgstr ""
+
+#: options/meta-box-functions.php:327
+msgid "Uploaded files"
+msgstr ""
+
+#: options/meta-box-functions.php:337
+msgid "Upload new files"
+msgstr ""
+
+#: options/meta-box-functions.php:340
+msgid "Add more file"
+msgstr ""
+
+#: options/meta-box-functions.php:381
+msgid "Add more images"
+msgstr ""
+
+#: options/meta-box-functions.php:388
+msgid "Select a color"
+msgstr ""
+
+#: options/meta-box-options.php:87
+msgid "City"
+msgstr ""
+
+#: options/meta-box-options.php:91
+msgid "City were show is held"
+msgstr ""
+
+#: options/meta-box-options.php:94
+msgid "State"
+msgstr ""
+
+#: options/meta-box-options.php:98
+msgid "State were show is held"
+msgstr ""
+
+#: options/meta-box-options.php:101
+msgid "Google maps address"
+msgstr ""
+
+#: options/meta-box-options.php:105
+msgid "Detailed address for Google maps"
+msgstr ""
+
+#: options/meta-box-options.php:108
+msgid "Event Start"
+msgstr ""
+
+#: options/meta-box-options.php:109
+msgid "Date that the event will start."
+msgstr ""
+
+#: options/meta-box-options.php:115
+msgid "Event end"
+msgstr ""
+
+#: options/meta-box-options.php:116
+msgid "Date that the event will end. (leave open if it is a single function or do not have an end)"
+msgstr ""
+
+#: options/meta-box-options.php:122
+msgid "Starting Time"
+msgstr ""
+
+#: options/meta-box-options.php:123
+msgid "Starting time of event."
+msgstr ""
+
+#: options/meta-box-options.php:130
+msgid "Recurring event"
+msgstr ""
+
+#: options/meta-box-options.php:140
+#: options/meta-box-options.php:196
+msgid "Select here if it is a simple recurring event."
+msgstr ""
+
+#: options/meta-box-options.php:143
+msgid "Advanced reccuring interval"
+msgstr ""
+
+#: options/meta-box-options.php:156
+msgid "Additional advanced recurring events. Remember to set the simple recurring intervals to never when using this one."
+msgstr ""
+
+#: options/meta-box-options.php:159
+msgid "Advanced reccuring weekday"
+msgstr ""
+
+#: options/meta-box-options.php:173
+msgid "Weekday to set with the above intervals."
+msgstr ""
+
+#: options/meta-box-options.php:187
+msgid "Utility Type"
+msgstr ""
+
+#: options/meta-box-options.php:199
+msgid "Link to"
+msgstr ""
+
+#: options/meta-box-options.php:212
+msgid "Select what to link to if using an image link."
+msgstr ""
+
+#: options/meta-box-options.php:230
+msgid "Name of the Artist."
+msgstr ""
+
+#: options/meta-box-options.php:233
+msgid "Link to buy 1 label"
+msgstr ""
+
+#: options/meta-box-options.php:237
+msgid "Label of the first link to buy. eg: Itunes, Amazon, Shop....."
+msgstr ""
+
+#: options/meta-box-options.php:240
+msgid "Link to buy 1 address"
+msgstr ""
+
+#: options/meta-box-options.php:244
+#: options/meta-box-options.php:258
+msgid "Adress of the page where the album is available to buy."
+msgstr ""
+
+#: options/meta-box-options.php:247
+msgid "Link to buy 2 label"
+msgstr ""
+
+#: options/meta-box-options.php:251
+msgid "Label of the second link to buy. eg: Itunes, Amazon, Shop....."
+msgstr ""
+
+#: options/meta-box-options.php:254
+msgid "Link to buy 2 address"
+msgstr ""
+
+#: options/meta-box-options.php:277
+msgid "Reminder email"
+msgstr ""
+
+#: options/meta-box-options.php:280
+msgid "Event id"
+msgstr ""
+
+#: options/meta-box-options.php:284
+msgid "Id of event that needs reminding"
+msgstr ""
+
+#: options/meta-box-options.php:287
+msgid "Event date"
+msgstr ""
+
+#: options/meta-box-options.php:291
+msgid "Unix timestamp for the date"
+msgstr ""
+
+#: options/meta-box-options.php:294
+msgid "Reminder timespan"
+msgstr ""
+
+#: options/meta-box-options.php:298
+msgid "How many days before needs reminding"
+msgstr ""
+
+#: options/meta-box-options.php:301
+msgid "Status"
+msgstr ""
+
+#: options/meta-box-options.php:305
+msgid "Was a reminder sent?"
+msgstr ""
+

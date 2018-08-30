@@ -1,0 +1,6 @@
+Sitemap: http://symfomania.com.ua/sitemap.xml 
+
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+
