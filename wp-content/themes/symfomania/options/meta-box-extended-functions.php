@@ -718,7 +718,7 @@ function lets_get_slideshow() {
 	if ( have_posts() ) : 
 		
 		$content .= '
-			<div class="frontslide" style="margin-left: 0px;"><ul class="showslide" id="showslide">
+			<div class="frontslide"><ul class="showslide" id="showslide">
 		';
 	
 	
@@ -733,7 +733,7 @@ function lets_get_slideshow() {
 		$s8 = get_post_meta(get_the_ID(),'c_type', true);
 				
 				
-		if ($s7 == 'content'){
+		if ($s7 === 'content'){
 						
 			switch($s8) {
 				
@@ -756,7 +756,7 @@ function lets_get_slideshow() {
 										
 					if ($a_meta) {
 					
-						if ($b_meta == 'vimeo' ) {
+						if ($b_meta === 'vimeo' ) {
 			
 							$vidimg = getVimeoInfo($a_meta,"thumbnail_large");	
 							$content .= '
@@ -766,7 +766,7 @@ function lets_get_slideshow() {
 								</a></div></li>
 							';
 							
-						} elseif ($b_meta == 'youtube' ) {
+						} elseif ($b_meta === 'youtube' ) {
 						
 							$content .= '
 								<li><div class="showvid" style="background: url(http://i.ytimg.com/vi/'.$a_meta.'/0.jpg) no-repeat center;">
@@ -781,7 +781,7 @@ function lets_get_slideshow() {
 						$a_ctc = get_post_meta($c_meta, 'option1' , true);
 						$b_ctc = get_post_meta($c_meta, 'option2' , true);
 						
-						if ($b_ctc == 'Vimeo' ) {
+						if ($b_ctc === 'Vimeo' ) {
 			
 							$vidimg = getVimeoInfo($a_ctc,"thumbnail_large");	
 							$content .= '
@@ -791,7 +791,7 @@ function lets_get_slideshow() {
 								</a></div></li>
 							';
 							
-						} elseif ($b_ctc == 'Youtube' ) {
+						} elseif ($b_ctc === 'Youtube' ) {
 						
 							$content .= '
 								<li><div class="showvid" style="background: url(http://i.ytimg.com/vi/'.$a_ctc.'/0.jpg) no-repeat center;">

@@ -1,10 +1,10 @@
 /*
- Theme Name: Music
- Theme URI: http://www.netstudio.co.za
- Author URI: http://www.netstudio.co.za
- Description: Netlabs Music Theme
- Author: Netstudio
- Version: 1.1
+ Theme Name: Symfomania
+ Theme URI: https://fedirko.pro
+ Author URI: https://fedirko.pro
+ Description: Symfomania WP template for Ukrainian symphonic and neo-classical rock band, based on Netstudio's Music template
+ Author: Serhii Fedirko
+ Version: 1.0
  License: GNU General Public License
  License URI: license.txt
  Tags: two-columns, fixed-width, threaded-comments, editor-style, custom-menu
@@ -17,7 +17,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 /************************************************************************
  -==- grid system & float clearing
  *************************************************************************/
-.container{margin:0 auto;position:relative;width:978px}.grid1,.grid2,.grid3,.grid4,.grid5,.grid6,.grid7,.grid8,.grid9,.grid10,.grid11{float:left;margin-left:30px;position:relative}.grid1{width:54px}.grid2{width:138px}.grid3{width:222px}.grid4{width:286px}.grid5{width:390px}.grid6{width:474px}.grid7{width:558px}.grid8{width:602px}.grid9{width:726px}.grid10{width:810px}.grid11{width:894px}div .first{clear:left;}.clear:before,.clear:after{content:"";display:block;overflow:hidden}.clear:after{clear:both}.clear{zoom:1}
+.container{margin:0 auto;position:relative;width:1030px}.grid1,.grid2,.grid3,.grid4,.grid5,.grid6,.grid7,.grid8,.grid9,.grid10,.grid11{float:left;margin-left:30px;position:relative}.grid1{width:54px}.grid2{width:138px}.grid3{width:222px}.grid4{width:286px}.grid5{width:390px}.grid6{width:474px}.grid7{width:558px}.grid8{width:602px}.grid9{width:726px}.grid10{width:810px}.grid11{width:894px}div .first{clear:left;}.clear:before,.clear:after{content:"";display:block;overflow:hidden}.clear:after{clear:both}.clear{zoom:1}
 
 /************************************************************************
  -==- common settings
@@ -80,8 +80,9 @@ a{
 body {
     font: 0.75em / 1.73em  Arial,sans-serif;
 	color: #6f6f6f;
-	background: #211D19;
 	position: relative;
+	background: #211D19 url(images/main_bg.jpg) center top no-repeat fixed;
+	background-size: cover;
 }
 
 .bgwidth, .bgheight {
@@ -2509,13 +2510,13 @@ float: left;
 
 .frontslide{
 	position: relative;
-	height: 360px;
+	height: 310px;
 }
 
 .vidholder{
 	position: absolute;
 	top: 0px;
-	left: 0px;
+	left: 25%;
 	width: 0px;
 	height: 0px;
 	overflow: hidden;
@@ -2534,23 +2535,19 @@ float: left;
 }
 
 
-.frontslide{
-	position: relative;
-}
-
 .ntlc_prev, .ntlc_next{
 	position: absolute;
-	top: 315px;
+	top: 50%;
 	width: 36px;
 	height: 48px;
 	text-indent: -999999px;
-	margin-top: 0px;
+	margin-top: -48px;
 	cursor: pointer;
 	z-index:100;
 }
 
 .ntlc_prev{
-	left: -1200px;
+	left: 50px;
 	background: url(images/prevver.png) no-repeat top center;
 }
 
@@ -2560,7 +2557,7 @@ float: left;
 	
 	
 .ntlc_next{
-	left: -1200px;
+	right: 50px;
 	background: url(images/nexter.png) no-repeat top center;
 }
 
@@ -2570,9 +2567,9 @@ float: left;
 
 
 .slidecontainer{
-	height: 364px;
 	z-index: 0;
 	left: 0px;
+	margin: 40px auto 0;
 }
 
 ul.showslide{
@@ -2586,10 +2583,9 @@ ul.showslide{
 
 ul.showslide li{
 	padding: 0px;
-	margin: 0px;
+	margin: 0 250px;
 	position: relative;
 	height: 320px;
-	margin-right: 500px;
 	width: 530px;
 }
 
@@ -2849,7 +2845,7 @@ ul.showslide li a.buybutt{
 .mainlogo{
 	z-index: 100;
 	position: relative;
-	height: 200px;
+	height: 250px;
 	background: transparent !important;
 }
 

@@ -88,13 +88,7 @@ wp_head();
 
 
 <body <?php body_class(); ?> >
-	
-	
-	<!-- Adding the background image -->
-	<?php echo cp_get_bgimg(); ?>
-	
-	
-	<!-- Adding the menu & logo -->
+    <!-- Adding the menu & logo -->
 	<div class="mainlogo timerhide">
 		<div class="container clear">
 			<div id="access" role="navigation">
@@ -108,7 +102,7 @@ wp_head();
 	
 	<!-- Getting the slideshow above the menu -->
 	
-	<?php if ($settings['ntl_slide_type'] == 'content') { ?>
+	<?php if ($settings['ntl_slide_type'] === 'content') { ?>
 	<!-- Netlabs functions for adding the slideshow -->
 	<?php if (is_home()){ ?>
 	<div class="container clear slidecontainer">

@@ -9,13 +9,10 @@
  * custom paths
  ******************************************************************/
  
-define("NETLABS_INCLUDES_PATH", TEMPLATEPATH . '/includes');
-define("NETLABS_CUSTPAGES_PATH", TEMPLATEPATH . '/options');
-
-require_once (NETLABS_INCLUDES_PATH . '/custom_functions.php');
-require_once (NETLABS_INCLUDES_PATH . '/widgets.php');
-require_once (NETLABS_CUSTPAGES_PATH . '/custom-post-types.php');
-require_once (NETLABS_CUSTPAGES_PATH . '/meta-box-extended-functions.php');
+require_once 'includes/custom_functions.php';
+require_once 'includes/widgets.php';
+require_once 'options/custom-post-types.php';
+require_once 'options/meta-box-extended-functions.php';
 include_once 'options/meta-box-functions.php';
 include 'options/meta-box-options.php';
 
@@ -24,15 +21,13 @@ include 'options/meta-box-options.php';
  /******************************************************************
  * setup the admin
  ******************************************************************/
-define("NTL_ADMINPAGES_PATH", TEMPLATEPATH . '/admin');
-require_once (NTL_ADMINPAGES_PATH . '/admin-functions.php');
-require_once (NTL_ADMINPAGES_PATH . '/admin-layouts.php');
-require_once (NTL_ADMINPAGES_PATH . '/admin-helper.php');
-require_once (NTL_ADMINPAGES_PATH . '/theme-settings.php');
-require_once (NTL_ADMINPAGES_PATH . '/slide-settings.php');
-require_once (NTL_ADMINPAGES_PATH . '/video-settings.php');
-require_once (NTL_ADMINPAGES_PATH . '/utility-settings.php');
-require_once (NTL_ADMINPAGES_PATH . '/facebook-settings.php');
+require_once 'admin/admin-layouts.php';
+require_once 'admin/admin-helper.php';
+require_once 'admin/theme-settings.php';
+require_once 'admin/slide-settings.php';
+require_once 'admin/video-settings.php';
+require_once 'admin/utility-settings.php';
+require_once 'admin/facebook-settings.php';
 
 
  /******************************************************************
